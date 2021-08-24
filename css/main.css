@@ -18,11 +18,11 @@ body {
 h1{
   color: white;
   text-shadow: 1px 1px 88px grey;
-  font-family: "Courier New", Times, serif;
+  font-family: "STZhongsong",Times,serif;
 }
 h5{
   color: white;
-  font-family: "Courier New", Times, serif;
+  font-family: "STZhongsong",Times,serif;
 }
 
 #canvas {
